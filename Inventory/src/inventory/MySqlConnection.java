@@ -75,31 +75,3 @@ public class MySqlConnection {
 public Statement getStatement(){return st;}
     
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

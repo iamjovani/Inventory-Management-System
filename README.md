@@ -1,4 +1,4 @@
-# InventoryManagementSystem
+# inventory-management-system
 This is a basic Inventory System with CRUD functionalities along with report generation and administrator alert functionalities. The system is used to store information on computers and lab consumables. The system should alert administrators with details when lab consumables are close to their expiration dates. 
 
 
